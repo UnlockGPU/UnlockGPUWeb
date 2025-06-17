@@ -10,12 +10,7 @@ gaps—driver instability, poor compatibility, and a confusing, fragmented stack
 As a result, programmers are forced to buy NVIDIA, and AMD's huge potential
 remains untapped.
 
-This chronic gap is clear to every engineer who has tried to port code or build
-AI on AMD. Yet, financial markets remain slow to recognize the scale of this
-opportunity: AMD's valuation does not reflect what could be unlocked if it
-became the default alternative to CUDA. There is a disconnect between what
-developers experience daily and what investors expect. This is why we need a
-developer-led investor campaign—to make the value case impossible to ignore.
+Every engineer knows this pain, yet financial markets haven't recognized the opportunity: AMD's valuation doesn't reflect what unlocking a CUDA alternative could deliver. We need a developer-led investor campaign to bridge this disconnect and make the value case impossible to ignore.
 
 ## The Investment Opportunity
 
@@ -28,33 +23,16 @@ price/performance. Closing the software gap—making ROCm and HIP as seamless as
 CUDA—would unlock billions in new sales, data center wins, and ecosystem
 momentum.
 
-- **Rising Demand**: AI, ML, and scientific computing are exploding. Even modest
-progress on AMD's stack would yield outsized returns.
+- **Exploding Demand**: AI and scientific computing growth means even modest AMD software improvements yield outsized returns.
 
-- **Activist Leverage**: Shareholder and developer pressure can catalyze the
-management changes and focused investment AMD needs to seize this moment.
+- **Activist Leverage**: Combined shareholder and developer pressure can catalyze the management changes AMD needs now.
 
 
 ## Bridging the Trust Gap
 
-AMD's GPU hardware is strong — often offering better price/performance than
-NVIDIA. But its software efforts, despite being open-source and
-well-intentioned, have left developers frustrated. From broken drivers to
-missing features and inconsistent support, the community has been burned too
-many times.
+AMD's GPU hardware is strong — often offering better price/performance than NVIDIA. But its software efforts have left developers frustrated with broken drivers, missing features, and inconsistent support.
 
-Still, recent changes — including new libraries and hints of leadership focus —
-suggest a turnaround might be possible. But trust isn't built with code alone.
-It takes transparency, continuity, and accountability.
-
-Our campaign exists to help AMD rebuild that trust. We believe AMD's management
-wants to win back developer goodwill — and that this campaign can help them do
-it faster, more credibly, and more visibly.
-
-We're not just calling for investment. We're offering a structure of support: a
-coalition of developers and shareholders ready to rally behind real change. By
-combining developer insight with investor leverage, we can help AMD finally
-deliver on its promise — and show the world that this time is different.
+Recent changes suggest a turnaround might be possible, but trust requires transparency, continuity, and accountability. Our campaign offers AMD a structure of support: a coalition of developers and shareholders ready to rally behind real change. By combining developer insight with investor leverage, we can help AMD finally deliver on its promise.
 
 ## Our Demands
 
@@ -95,11 +73,9 @@ deliver on its promise — and show the world that this time is different.
 
 - **Unlock billions** in shareholder value as AMD wins market share from NVIDIA.
 
-- **Lead a historic transformation**—ending GPU vendor lock-in and opening up
-compute for all.
+- **End GPU vendor lock-in** and open compute for all.
 
-- **Ensure the future** of AI, ML, and scientific research is built on open,
-competitive, and developer-friendly foundations.
+- **Ensure AI and scientific research** is built on open, competitive foundations.
 
 ---
 
