@@ -58,62 +58,38 @@ deliver on its promise — and show the world that this time is different.
 
 ## Our Demands
 
-1. **Dedicated Investment**: Earmark and publicly report a specific annual
-budget for ROCm and open GPU software, matching the scale of the problem.
+1. **Substantial Dedicated Investment**: Commit to and publicly report a significant, protected annual budget for ROCm and open GPU software—matching the scale of the challenge.
 
-2. **Executive Accountability**: Appoint a VP for Open Compute Software, with
-board visibility and clear authority.
+2. **Leadership and Transparency**: Appoint a VP for Open Compute Software with board visibility, publish a clear software roadmap, and report progress quarterly.
 
-3. **Transparency**: Publish a clear, regularly updated roadmap for GPU software
-support; report progress and budget utilization quarterly.
-
-4. **Unified Platform**: End fragmentation. Prioritize a single, stable stack
-and developer-first experience. Adopt and support open standards (e.g., SYCL)
-and cross-vendor portability.
-
-5. **Community Engagement**: Form an external developer/customer advisory board
-and fund hackathons, bug bounties, and innovation grants.
+3. **Community Engagement**: Form an external developer/customer advisory board and fund hackathons, bug bounties, and innovation grants.
 
 ## Preliminary Action Plan
 
 *This plan is a starting point—join us to shape and refine it further.*
 
-- **Draft Shareholder Resolution**: We are preparing a non-binding shareholder
-resolution for AMD's 2026 annual meeting. We invite developers, investors, and
-legal experts to collaborate on drafting this resolution.
+- **Shareholder Action**: Draft and submit a non-binding resolution for AMD's 2026 annual meeting, engaging legal experts and activist investors (Elliott Management, Third Point) for maximum impact.
 
-- **Amplify the Developer Voice**: We will organize and amplify developer
-experiences, coordinate the #UnlockGPU campaign, and engage prominent figures
-in the GPU computing space to build support and formulate specific technical
-changes needed for AMD's software stack.
+- **Developer Coalition**: Organize the #UnlockGPU campaign, engage prominent figures in GPU computing, and build a unified voice demanding specific technical improvements.
 
-- **Monitor and Demand Progress**: We will establish benchmarks and demand
-quarterly reporting on ROCm progress, budget utilization, and developer
-satisfaction metrics.
-
-- **Build Strategic Alliances**: We will advocate for AMD to collaborate with
-Intel, cloud providers, and open-source leaders on cross-vendor standards and
-tools.
-
-- **Engage Activist Investors**: We will reach out to experienced activist
-investors with a history of running similar campaigns (such as Elliott
-Management, Third Point) to amplify pressure and provide strategic guidance.
+- **Strategic Pressure**: Monitor and demand quarterly progress reporting while advocating for AMD to collaborate with Intel, cloud providers, and open-source leaders on cross-vendor standards and tools.
 
 ## How to Join
 
-1. **Become a Shareholder**: Buy AMD stock via your broker.
+### For Developers
+- **Document Technical Pain Points**: Share specific ROCm/HIP issues, compatibility gaps, and missing features that block adoption
+- **Contribute to Resolution Drafting**: Help define technical requirements and proposed solutions for the shareholder resolution
+- **Amplify #UnlockGPU**: Share experiences and build technical consensus around needed improvements
 
-2. **Register Support**: Sign up at UnlockGPU.org *(coming soon)* for campaign
-updates and coordination.
+### For Shareholders
+- **Buy AMD Stock**: Purchase shares through your broker to gain voting rights
+- **Vote and Engage**: Use proxy votes at AGMs, submit proposals, and attend meetings (virtual or in-person)
+- **Register Support**: Sign up at UnlockGPU.org *(coming soon)* for coordination and updates
 
-3. **Vote Your Shares**: Pledge support at AMD AGMs and through proxy voting.
-[How to vote your proxy as a retail investor](https://example.com).
-
-4. **Vote and Participate**: Use your proxy votes, submit and endorse proposals,
-and attend AGMs (virtually or in person).
-
-5. **Shape the Agenda**: Suggest new actions, budget targets, or leadership
-changes through campaign channels.
+### For Activist Investors
+- **Strategic Partnership**: Join forces with campaign organizers to maximize shareholder pressure and provide strategic guidance
+- **Shape the Agenda**: Contribute expertise on effective resolution language, timing, media strategy, and board engagement tactics
+- **Leverage Networks**: Connect the campaign with other institutional investors, analysts, and industry allies
 
 ## The Payoff
 
