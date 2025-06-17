@@ -78,23 +78,26 @@ and fund hackathons, bug bounties, and innovation grants.
 
 *This plan is a starting point—join us to shape and refine it further.*
 
-- **Vote Your Shares**: Pledge support at AMD AGMs and through proxy voting.
-[How to vote your proxy as a retail investor](https://example.com).
+- **Draft Shareholder Resolution**: We are preparing a non-binding shareholder
+resolution for AMD's 2026 annual meeting. We invite developers, investors, and
+legal experts to collaborate on drafting this resolution.
 
-- **Propose & Endorse Resolutions**: Support proposals that increase software
-R&D, transparency, and developer engagement.
+- **Amplify the Developer Voice**: We will organize and amplify developer
+experiences, coordinate the #UnlockGPU campaign, and engage prominent figures
+in the GPU computing space to build support and formulate specific technical
+changes needed for AMD's software stack.
 
-- **Push for Dedicated Leadership and Budget**: Call for a VP of ROCm/Open
-Compute and a ring-fenced software development budget.
+- **Monitor and Demand Progress**: We will establish benchmarks and demand
+quarterly reporting on ROCm progress, budget utilization, and developer
+satisfaction metrics.
 
-- **Amplify the Developer Voice**: Share pain points and success stories. Use
-#UnlockGPU and participate in campaign forums.
+- **Build Strategic Alliances**: We will advocate for AMD to collaborate with
+Intel, cloud providers, and open-source leaders on cross-vendor standards and
+tools.
 
-- **Monitor and Demand Progress**: Require quarterly reporting on ROCm progress,
-budget use, and developer satisfaction metrics.
-
-- **Build Strategic Alliances**: Encourage AMD to collaborate with Intel, cloud
-providers, and open-source leaders on cross-vendor standards and tools.
+- **Engage Activist Investors**: We will reach out to experienced activist
+investors with a history of running similar campaigns (such as Elliott
+Management, Third Point) to amplify pressure and provide strategic guidance.
 
 ## How to Join
 
@@ -103,10 +106,13 @@ providers, and open-source leaders on cross-vendor standards and tools.
 2. **Register Support**: Sign up at UnlockGPU.org *(coming soon)* for campaign
 updates and coordination.
 
-3. **Vote and Participate**: Use your proxy votes, submit and endorse proposals,
+3. **Vote Your Shares**: Pledge support at AMD AGMs and through proxy voting.
+[How to vote your proxy as a retail investor](https://example.com).
+
+4. **Vote and Participate**: Use your proxy votes, submit and endorse proposals,
 and attend AGMs (virtually or in person).
 
-4. **Shape the Agenda**: Suggest new actions, budget targets, or leadership
+5. **Shape the Agenda**: Suggest new actions, budget targets, or leadership
 changes through campaign channels.
 
 ## The Payoff
