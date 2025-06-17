@@ -34,6 +34,28 @@ progress on AMD's stack would yield outsized returns.
 - **Activist Leverage**: Shareholder and developer pressure can catalyze the
 management changes and focused investment AMD needs to seize this moment.
 
+
+## Bridging the Trust Gap
+
+AMD's GPU hardware is strong — often offering better price/performance than
+NVIDIA. But its software efforts, despite being open-source and
+well-intentioned, have left developers frustrated. From broken drivers to
+missing features and inconsistent support, the community has been burned too
+many times.
+
+Still, recent changes — including new libraries and hints of leadership focus —
+suggest a turnaround might be possible. But trust isn't built with code alone.
+It takes transparency, continuity, and accountability.
+
+Our campaign exists to help AMD rebuild that trust. We believe AMD's management
+wants to win back developer goodwill — and that this campaign can help them do
+it faster, more credibly, and more visibly.
+
+We're not just calling for investment. We're offering a structure of support: a
+coalition of developers and shareholders ready to rally behind real change. By
+combining developer insight with investor leverage, we can help AMD finally
+deliver on its promise — and show the world that this time is different.
+
 ## Our Demands
 
 1. **Dedicated Investment**: Earmark and publicly report a specific annual
