@@ -51,7 +51,7 @@ This is not just advocacy. It’s a framework for real change and measurable val
 ## Preliminary Action Plan
 
 *This plan is a starting point—join us to shape and refine it further. But some parts of it will happen regardless of the support we gain.*
-- Shareholder Action: File a non-binding resolution at AMD’s 2026 meeting. This is already underway - we meet the SEC formal requirements. Enlist activist investor allies.
+- Shareholder Action: File a non-binding resolution at AMD’s 2026 meeting. Enlist activist investor allies.
 - Developer Coalition: Launch #UnlockGPU, unite developer voices, and prioritize a technical wishlist.
 - Strategic Pressure: Demand quarterly progress and push for AMD to collaborate on open, cross-vendor standards (SYCL, etc.).
 
