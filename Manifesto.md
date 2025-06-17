@@ -32,6 +32,7 @@ Our campaign creates a feedback loop:
 
 This is not just advocacy. It’s a framework for real change and measurable value—for developers, investors, and AMD alike.
 
+*(For developers unfamiliar with shareholder activism tactics, see our [detailed explanation](/admin/pages/shareholder-activism/) of how this strategy works in practice.)*
 
 ## The Investment Opportunity
 

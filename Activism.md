@@ -1,4 +1,4 @@
-# Shareholder Activism: How Developers Can Force Real Change
+# Shareholder Activism: How You Can Force Real Change in Public Companies
 
 This campaign harnesses a powerful but often overlooked mechanism: **shareholder activism**. Here we outline precisely how shareholder activism works, how we're strategically deploying it, and why the involvement of developers uniquely amplifies our impact.
 
