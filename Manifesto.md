@@ -55,9 +55,9 @@ momentum.
 
 ## Preliminary Action Plan
 
-*This plan is a starting point—join us to shape and refine it further.*
+*This plan is a starting point—join us to shape and refine it further. But some parts of it will happen regardless of the support we gain.*
 
-- **Shareholder Action**: Draft and submit a non-binding resolution for AMD's 2026 annual meeting, engaging legal experts and activist investors (Elliott Management, Third Point) for maximum impact.
+- **Shareholder Action**: Draft and submit a non-binding resolution for AMD's 2026 annual meeting, engaging legal experts and activist investors (Elliott Management, Third Point) for maximum impact. This part is guaranteed: we already meet the SEC’s eligibility requirements, and will file a resolution regardless of campaign size.
 
 - **Developer Coalition**: Organize the #UnlockGPU campaign, engage prominent figures in GPU computing, and build a unified voice demanding specific technical improvements.
 
@@ -90,8 +90,7 @@ momentum.
 
 ---
 
-**The time for action is now.** Developers see the need. Investors can unlock
-*the value. Join us—vote, organize, and build the future together.
+**The time for action is now.** Developers see the need. Investors can unlock the value. Join us—vote, organize, and build the future together.
 
 
 
