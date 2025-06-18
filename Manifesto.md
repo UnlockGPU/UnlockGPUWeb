@@ -45,7 +45,7 @@ This is not just advocacy. It’s a framework for real change and measurable val
 
 1. **Substantial, Protected Investment**: Commit a significant, ring-fenced annual budget for ROCm/open GPU software.
 2. **Leadership and Transparency**: Appoint a VP for Open Compute Software with board-level visibility; publish a roadmap and report progress every quarter.
-3. **Genuine Community Engagement**: Create a developer/customer advisory board; fund hackathons, bug bounties, and innovation grants.
+3. **Genuine Community Engagement**: Establish a developer advisory board and work directly from the [Developer Priorities Document](https://github.com/UnlockGPU/UnlockGPUWeb/blob/main/Priorities.md)—a living summary of what the community actually needs, from long-term driver support to ML library compatibility. Fund hackathons, bug bounties, and innovation grants to strengthen the grassroots ecosystem and ensure AMD’s commitments stay grounded in real-world developer feedback.
 
 
 ## Preliminary Action Plan
