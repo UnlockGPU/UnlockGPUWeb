@@ -20,20 +20,19 @@ Wall Street sees great AMD hardware and wonders: why are sales flat? They miss t
 
 ## Why This Campaign Works
 
+NVIDIA's monopoly is only breakable when real, open competition exists. Our campaign targets AMD because it's the only challenger with the hardware and open approach to actually change the game—if they deliver on software and trust.
+
 All past efforts failed by working in isolation:
-- AMD’s promises lack developer trust.
+- AMD's promises lack developer trust.
 - Developers alone have no leverage with management.
 - Financial pressure without technical context leads nowhere.
 
-Our campaign creates a feedback loop:
-- Build trust: Developers define real-world requirements; AMD’s commitments get technical legitimacy.
-- Create accountability: Shareholder actions and resolutions can’t be ignored or spun.
-- Educate markets: We clearly explain the technical bottleneck and the scale of the business opportunity.
+Our campaign creates a feedback loop that addresses all three barriers:
+- **Build trust**: Developers define real-world requirements; AMD's commitments get technical legitimacy.
+- **Create accountability**: Shareholder actions and resolutions can't be ignored or spun.
+- **Educate markets**: We clearly explain the technical bottleneck and the scale of the business opportunity.
 
-This is not just advocacy. It's a framework for real change and measurable value—for developers, investors, and AMD alike.
-([How do we actually have force over AMD?](faq#actual-force))
-
-NVIDIA’s monopoly is only breakable when real, open competition exists. Our campaign targets AMD because it’s the only challenger with the hardware and open approach to actually change the game—if they deliver on software and trust.
+This is not just advocacy. It's a framework for real change and measurable value—for developers, investors, and AMD alike. ([How do we actually have force over AMD?](/faq#actual-force))
 
 *(For developers unfamiliar with shareholder activism tactics, see our [detailed explanation](/shareholder-activism) of how this strategy works in practice.)*
 
