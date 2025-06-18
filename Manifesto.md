@@ -31,7 +31,7 @@ Our campaign creates a feedback loop:
 - Educate markets: We clearly explain the technical bottleneck and the scale of the business opportunity.
 
 This is not just advocacy. It's a framework for real change and measurable value—for developers, investors, and AMD alike.
-([How do we actually have force over AMD?](FAQ.md#actual-force))
+([How do we actually have force over AMD?](faq#actual-force))
 
 NVIDIA’s monopoly is only breakable when real, open competition exists. Our campaign targets AMD because it’s the only challenger with the hardware and open approach to actually change the game—if they deliver on software and trust.
 
