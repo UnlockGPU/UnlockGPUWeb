@@ -32,6 +32,8 @@ Our campaign creates a feedback loop:
 
 This is not just advocacy. It’s a framework for real change and measurable value—for developers, investors, and AMD alike.
 
+NVIDIA’s monopoly is only breakable when real, open competition exists. Our campaign targets AMD because it’s the only challenger with the hardware and open approach to actually change the game—if they deliver on software and trust.
+
 *(For developers unfamiliar with shareholder activism tactics, see our [detailed explanation](/shareholder-activism) of how this strategy works in practice.)*
 
 ## The Investment Opportunity
