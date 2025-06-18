@@ -32,7 +32,7 @@ Our campaign creates a feedback loop that addresses all three barriers:
 - **Create accountability**: Shareholder actions and resolutions can't be ignored or spun.
 - **Educate markets**: We clearly explain the technical bottleneck and the scale of the business opportunity.
 
-This is not just advocacy. It's a framework for real change and measurable value—for developers, investors, and AMD alike. ([How do we actually have force over AMD?](/faq#actual-force))
+This is not just advocacy. It's a strategic framework for real change. We don't need big resources to do that - see [How do we actually have force over AMD?](/faq#actual-force)
 
 *(For developers unfamiliar with shareholder activism tactics, see our [detailed explanation](/shareholder-activism) of how this strategy works in practice.)*
 
