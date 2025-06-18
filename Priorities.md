@@ -1,7 +1,7 @@
 
 # UnlockGPU: Developer Priorities Document
 
-*This is a living document that captures the key technical priorities, pain points, and expectations from the developer community for AMD’s GPU software stack (ROCm, HIP, drivers, libraries, tooling). It complements the [Unlock the GPU Manifesto](https://unlockgpu.org/) by grounding its demands in concrete, evolving needs. PRs and issue reports welcome.*
+*This is a living document that captures the key technical priorities, pain points, and expectations from the developer community for AMD’s GPU software stack (ROCm, HIP, drivers, libraries, tooling). It complements the [Unlock the GPU Manifesto](https://unlockgpu.com/) by grounding its demands in concrete, evolving needs. PRs and issue reports welcome.*
 
 ---
 
