@@ -43,9 +43,14 @@ This is not just advocacy. It’s a framework for real change and measurable val
 
 ## Our Demands
 
-1. **Substantial, Protected Investment**: Commit a significant, ring-fenced annual budget for ROCm/open GPU software.
-2. **Leadership and Transparency**: Appoint a VP for Open Compute Software with board-level visibility; publish a roadmap and report progress every quarter.
-3. **Genuine Community Engagement**: Establish a developer advisory board and work directly from the [Developer Priorities Document](https://github.com/UnlockGPU/UnlockGPUWeb/blob/main/Priorities.md)—a living summary of what the community actually needs, from long-term driver support to ML library compatibility. Fund hackathons, bug bounties, and innovation grants to strengthen the grassroots ecosystem and ensure AMD’s commitments stay grounded in real-world developer feedback.
+1. **Sustained Investment in Open GPU Software**
+Commit a significant, protected annual budget for ROCm and open GPU software.
+2. **Driver Support for Entry-Tier and Mainstream Hardware**
+Support for affordable, widely available GPUs is the foundation of a strong developer community. Many breakthrough tools—like Stable Diffusion and llama.cpp—started as solo hacker projects on accessible hardware. No grassroots, no ecosystem.
+3. **Community-Led Guidance and Engagement**
+Establish a developer advisory board and work directly from the evolving Developer Priorities Document, ensuring AMD’s actions are grounded in real-world developer needs. Fund hackathons, bug bounties, and innovation grants.
+4. **Transparent Leadership and Roadmaps**
+Appoint a VP for Open Compute Software with board-level visibility. Publish a public roadmap, report progress quarterly, and communicate support policies and deprecation plans clearly.
 
 
 ## Preliminary Action Plan
