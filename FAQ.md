@@ -30,7 +30,7 @@ Our campaign demands execution, not promises. We're pushing AMD to be truly comp
 
 AMD is the only company with a realistic path to break NVIDIA's monopoly—but only if they fix what's broken. When AMD wins, we all win.
 
-## Q: What actual force do you have over AMD? How can a few people change a billion-dollar company?
+## Q: What actual force do you have over AMD? How can a few people change a billion-dollar company? {#actual-force}
 
 **A:**
 
