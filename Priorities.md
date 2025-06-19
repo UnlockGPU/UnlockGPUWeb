@@ -119,19 +119,6 @@ Open standards are the way out of single-vendor lock-in. AMD’s future is to be
 
 ---
 
-## Tags and Wishlist (for GitHub tracking)
-
-- `driver-stability`
-- `installation`
-- `windows-support`
-- `hardware-breadth`
-- `low-end-gpus`
-- `ml-library-gap`
-- `docs-and-onboarding`
-- `sycl-openxla-interop`
-
----
-
 *Maintained by the UnlockGPU community. The next 18–24 months are critical: AMD’s dual-front war for developer trust and software maturity will shape the future of open GPU computing.*
 
 ---
