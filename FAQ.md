@@ -50,6 +50,7 @@ Our unique advantage is combining developer expertise with investor pressure—m
 For detailed explanation of our shareholder activism strategy, see [Shareholder Activism: How You Can Force Real Change](Activism.md).
 
 <a id="why-amd"></a>
+
 ## Q: Why not target NVIDIA directly? Isn't NVIDIA the real problem? Why focus on AMD when they already support open source?
 
 **A:**
@@ -107,17 +108,23 @@ We're not here to "educate" AMD. We're here to create the public, independent ac
 
 **A:**
 
-We've tried the traditional approaches—developer feedback, community forums, open source contributions, and direct outreach to AMD. These efforts have yielded limited results because they lack formal leverage.
+While traditional approaches like developer feedback and community forums continue to be valuable, we're excited to try something new: formal shareholder activism.
 
-**Shareholder activism is different because it:**
+**Why this is a novel approach for GPU computing:**
+- Developer advocacy has typically been limited to forums, GitHub issues, and informal feedback
+- Open source communities rarely leverage financial ownership for technical improvements
+- No major GPU software campaign has combined developer expertise with investor pressure
+- This bridges the gap between technical credibility and corporate governance power
+
+**This approach offers unique opportunities:**
 - Creates legal obligations (resolutions must be included in proxy statements)
 - Forces board-level attention (can't be delegated to lower-level managers)
 - Generates public accountability (voting results become public record)
 - Provides ongoing leverage (annual meetings create recurring pressure)
 
-**We're not abandoning collaboration**—we're adding accountability. The goal is to make AMD's existing promises credible by creating external verification and pressure.
+**We're not replacing collaboration**—we're adding a powerful new tool. The goal is to complement existing efforts with formal accountability mechanisms that can amplify our voice.
 
-Think of it as "trust but verify" for corporate commitments.
+Think of it as "trust but verify" for corporate commitments—something worth trying in the GPU computing space.
 
 <a id="if-ignored"></a>
 ## Q: What happens if AMD ignores the shareholder resolution?
@@ -152,7 +159,7 @@ Even "losing" votes of 10-20% often trigger management action because they signa
 
 **A:**
 
-The problems fall into several key categories:
+Based on our research of internet forums and developer discussions, we've identified problems that fall into several key categories. This represents what we've discovered *so far*—we expect to uncover additional issues as we gather direct community feedback:
 
 **1. Driver Stability & Installation**
 - Frequent black screens, timeouts, and crashes on Windows
@@ -212,26 +219,17 @@ The technical capabilities exist—AMD's hardware is competitive. The missing pi
 
 **A:**
 
-**Short-term (6-12 months):**
-- Stable drivers that don't break with routine updates
-- ROCm working reliably on popular consumer GPUs (RX 6000/7000 series)
-- Clear installation process with good error messages and recovery
+At this early stage, we're focused on identifying and prioritizing the most critical issues. As the campaign develops and we gather more community input, we'll establish specific success metrics.
 
-**Medium-term (1-2 years):**
-- ROCm for Windows with major ML frameworks (PyTorch, TensorFlow)
-- Popular libraries working out of the box (FlashAttention, Triton, etc.)
-- Documentation quality matching CUDA's level of detail and clarity
+**Initial goals include:**
+- Getting AMD to acknowledge and prioritize the technical issues we've identified
+- Creating a transparent roadmap for addressing developer pain points
+- Establishing regular communication channels between AMD and the developer community
 
-**Long-term (2-3 years):**
-- Developers choosing AMD for new projects, not just grudgingly accepting it
-- "It just works" reputation comparable to NVIDIA's
-- Vibrant ecosystem of tools, tutorials, and community contributions
+**Broader vision:**
+We want to break open the GPU computing market so developers have genuine choices based on technical merit, not vendor lock-in. Currently, NVIDIA's monopoly forces developers to accept their terms regardless of cost or technical fit.
 
-**Market indicators:**
-- Increased AMD GPU sales in AI/ML segments
-- More startups and research groups choosing AMD
-- Competitive pricing pressure on NVIDIA
-- Cross-platform ML frameworks using AMD as first-class backend
+Beyond AMD, we welcome other GPU developers to contribute their own open source drivers and frameworks. While ROCm is AMD-focused, the broader goal is fostering an open GPU computing ecosystem where multiple vendors can compete on merit rather than proprietary lock-in.
 
 ---
 
@@ -278,8 +276,6 @@ Every voice matters—this campaign's strength comes from broad, diverse support
 - Your voice carries weight as an actual owner
 - It aligns your financial interests with the campaign's success
 
-**The barrier is low:** You only need $2,000 of AMD stock held for one year to file formal resolutions, but any amount of ownership gives you voting rights.
-
 **Alternative approaches:**
 - Many institutional investors (pension funds, ETFs) hold AMD stock on your behalf
 - You can influence their voting through shareholder advocacy organizations
@@ -292,59 +288,16 @@ Stock ownership amplifies your voice, but the campaign's success depends on broa
 
 **A:**
 
-**Immediate (2024-2025):**
-- Build developer coalition and document technical priorities
-- Recruit institutional investor allies
-- Prepare shareholder resolution for AMD's 2025 annual meeting
+To be formulated.
 
-**Near-term (2025-2026):**
-- File and campaign for shareholder resolution
-- Generate media coverage and industry attention
-- Track AMD's response and any commitments made
-
-**Medium-term (2026-2027):**
-- Monitor progress on AMD's commitments
-- File follow-up resolutions if needed
-- Measure improvements in developer experience and market share
-
-**Long-term (2027+):**
-- Evaluate success and consider expanding to other companies
-- Support ongoing open GPU computing initiatives
-- Maintain pressure for continued progress
-
-**Key milestone:** AMD's annual shareholder meeting (typically May) is the focal point for formal resolutions, but campaign activities happen year-round.
+**Key milestone:** AMD's annual shareholder meeting in May 2026 will be the focal point for formal resolutions, but campaign activities happen year-round.
 
 <a id="tracking-progress"></a>
 ## Q: How will I know if this campaign is making progress?
 
 **A:**
 
-We're committed to transparent progress tracking:
-
-**Public Metrics:**
-- Shareholder resolution vote counts and percentages
-- AMD's official responses to resolutions and developer feedback
-- Technical improvements measured against our [Priorities Document](Priorities.md)
-- AMD GPU market share in AI/ML segments
-
-**Regular Updates:**
-- Quarterly progress reports on campaign activities
-- Technical assessments of ROCm and driver improvements
-- Media coverage and industry response tracking
-- Community feedback and developer sentiment surveys
-
-**Measurable Outcomes:**
-- Reduced developer complaints about installation and stability
-- Increased adoption of AMD GPUs in ML/AI projects
-- More competitive pricing in GPU markets
-- Improved developer documentation and support
-
-**Community Verification:**
-- Independent testing and benchmarking by community members
-- Open tracking of issues and resolution status
-- Regular community calls and feedback sessions
-
-Progress will be visible, measurable, and independently verifiable—not just corporate promises.
+To be formulated.
 
 ---
 
@@ -381,22 +334,8 @@ This isn't just asking politely—it's using the formal mechanisms of corporate 
 
 **A:**
 
-This campaign is led by a coalition of GPU developers and AMD shareholders who are frustrated with the slow progress on software ecosystem improvements.
+To be honest so far it is just me - Zbigniew Łukasiak [my AI related blog](https://zzbbyy.substack.com/), 
+plus a friend who holds AMD shares for over a year and who promiste do file the shareholder resolution (I hold them too but not long enough).
 
-**Leadership includes:**
-- Developers with years of experience fighting ROCm installation issues
-- Investors who see unrealized value in AMD's hardware capabilities
-- Researchers blocked by vendor lock-in in scientific computing
-- Open source advocates working on GPU computing standards
-
-**Not affiliated with:**
-- AMD competitors (this isn't about helping NVIDIA)
-- Short sellers or financial manipulators
-- Any specific company or organization with conflicting interests
-
-**Our motivation:**
-We believe AMD has incredible hardware potential being held back by solvable software problems. We're using our dual roles as developers and shareholders to push for the improvements that will benefit everyone.
-
-**Transparency commitment:**
-All campaign activities, funding sources, and conflicts of interest are disclosed publicly. This is about improving the ecosystem, not advancing hidden agendas.
+I am looking for allies.
 
