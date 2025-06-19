@@ -27,12 +27,11 @@ All past efforts failed by working in isolation:
 - Developers alone have no leverage with management.
 - Financial pressure without technical context leads nowhere.
 
-Our campaign creates a feedback loop that addresses all three barriers:
-- **Build trust**: Developers define real-world requirements; AMD's commitments get technical legitimacy.
-- **Create accountability**: Shareholder actions and resolutions can't be ignored or spun.
-- **Educate markets**: We clearly explain the technical bottleneck and the scale of the business opportunity.
+Our campaign creates a feedback loop that addresses all three barriers: developers define real-world requirements to **build trust**, shareholder actions **create accountability** that can't be ignored, and we **educate markets** about the technical bottleneck and business opportunity.
 
-**Our Strategic Insight**: We understand that ecosystem dominance starts from the grassroots. Support for affordable, widely available GPUs is the foundation of a strong developer ecosystem. Many breakthrough tools—like Stable Diffusion and llama.cpp—started as solo hacker projects on accessible hardware. Without grassroots adoption, there is no ecosystem. Consumer support drives enterprise adoption, not the reverse.
+We understand that ecosystem dominance starts from the grassroots. Support for affordable, widely available GPUs is the foundation of a strong developer ecosystem. Many breakthrough tools—like Stable Diffusion and llama.cpp—started as solo hacker projects on accessible hardware. Without grassroots adoption, there is no ecosystem. Consumer support drives enterprise adoption, not the reverse.
+
+Unlike typical open source advocacy campaigns that suffer from chronic underfunding and volunteer burnout, this campaign is potentially hugely lucrative for participants. If AMD's software ecosystem improves and breaks NVIDIA's monopoly, shareholders could see massive returns as AMD captures market share in the exploding AI/compute sector. While the created value will be difficult to capture entirely by the campaign participants, the scale will be enormous—creating powerful financial incentives for sustained campaign participation and investment.
 
 This is not just advocacy. It's a strategic framework for real change. We don't need big resources to do that - see [How do we actually have force over AMD?](/faq#actual-force)
 
