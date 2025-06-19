@@ -1,8 +1,8 @@
-# �� Unlock the GPU
+# Unlock the GPU
 
 **Campaign Materials and Documents**
 
-This repository contains all materials for the **Unlock the GPU** campaign—a developer-investor alliance working to break NVIDIA's CUDA monopoly by pressuring AMD to fix their software ecosystem.
+This repository contains all materials for the [**Unlock the GPU**](https://unlockgpu.com/) campaign—a developer-investor alliance working to break NVIDIA's CUDA monopoly by pressuring AMD to fix their software ecosystem.
 
 ---
 
