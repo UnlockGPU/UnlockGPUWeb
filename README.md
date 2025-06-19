@@ -13,7 +13,7 @@ This repository contains all materials for the [**Unlock the GPU**](https://unlo
 | **[📋 Manifesto](Manifesto.md)** | Complete campaign strategy, problem analysis, and demands |
 | **[❓ FAQ](FAQ.md)** | Frequently asked questions and detailed explanations |
 | **[🎯 Priorities](Priorities.md)** | Technical requirements from the developer community |
-| **[📢 Activism Guide](Activism.md)** | Practical steps for taking action |
+| **[📢 Activism Guide](Activism.md)** | Explanation of shareholder activism for developers |
 
 ---
 
