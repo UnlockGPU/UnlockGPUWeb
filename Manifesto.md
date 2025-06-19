@@ -22,12 +22,7 @@ Wall Street sees great AMD hardware and wonders: why are sales flat? They miss t
 
 NVIDIA's monopoly is only breakable when real, open competition exists. Our campaign targets AMD because it's the only challenger with the hardware and open approach to actually change the game—if they deliver on software and trust.
 
-All past efforts failed by working in isolation:
-- AMD's promises lack developer trust.
-- Developers alone have no leverage with management.
-- Financial pressure without technical context leads nowhere.
-
-Our campaign creates a feedback loop that addresses all three barriers: developers define real-world requirements to **build trust**, shareholder actions **create accountability** that can't be ignored, and we **educate markets** about the technical bottleneck and business opportunity.
+Our campaign creates a unified feedback loop: developer requirements **build trust** through technical legitimacy, shareholder actions **create accountability** that can't be ignored or spun, and we **educate markets** about the fixable bottleneck and massive opportunity.
 
 We understand that ecosystem dominance starts from the grassroots. Support for affordable, widely available GPUs is the foundation of a strong developer ecosystem. Many breakthrough tools—like Stable Diffusion and llama.cpp—started as solo hacker projects on accessible hardware. Without grassroots adoption, there is no ecosystem. Consumer support drives enterprise adoption, not the reverse.
 
