@@ -32,6 +32,8 @@ Our campaign creates a feedback loop that addresses all three barriers:
 - **Create accountability**: Shareholder actions and resolutions can't be ignored or spun.
 - **Educate markets**: We clearly explain the technical bottleneck and the scale of the business opportunity.
 
+**Our Strategic Insight**: We understand that ecosystem dominance starts from the grassroots. Support for affordable, widely available GPUs is the foundation of a strong developer ecosystem. Many breakthrough tools—like Stable Diffusion and llama.cpp—started as solo hacker projects on accessible hardware. Without grassroots adoption, there is no ecosystem. Consumer support drives enterprise adoption, not the reverse.
+
 This is not just advocacy. It's a strategic framework for real change. We don't need big resources to do that - see [How do we actually have force over AMD?](/faq#actual-force)
 
 *(For developers unfamiliar with shareholder activism tactics, see our [detailed explanation](/shareholder-activism) of how this strategy works in practice.)*
@@ -45,14 +47,17 @@ This is not just advocacy. It's a strategic framework for real change. We don't 
 
 ## Our Demands
 
-1. **Sustained Investment in Open GPU Software**
-Commit a significant, protected annual budget for ROCm and open GPU software.
-2. **Driver Support for Entry-Tier and Mainstream Hardware**
-Support for affordable, widely available GPUs is the foundation of a strong developer community. Many breakthrough tools—like Stable Diffusion and llama.cpp—started as solo hacker projects on accessible hardware. No grassroots, no ecosystem.
-3. **Community-Led Guidance and Engagement**
-Establish a developer advisory board and work directly from the evolving [Developer Priorities Document](https://github.com/UnlockGPU/UnlockGPUWeb/blob/main/Priorities.md), ensuring AMD's actions are grounded in real-world developer needs. Fund hackathons, bug bounties, and innovation grants.
-4. **Transparent Leadership and Roadmaps**
-Appoint a VP for Open Compute Software with board-level visibility. Publish a public roadmap, report progress quarterly, and communicate support policies and deprecation plans clearly.
+1. **Guaranteed Investment in Open GPU Software**
+Allocate a protected annual budget of $X million specifically for ROCm development, driver stability, and CUDA compatibility tools, with funds ring-fenced from general R&D cuts. This budget must be maintained for a minimum of 5 years and reported separately in quarterly earnings calls.
+
+2. **Mandatory Driver Support for Consumer Hardware**
+Provide full ROCm support for all consumer GPUs from RX 6000 series onward within 12 months, with commit-level guarantees for 5-year support lifecycles. Establish and fund a dedicated consumer GPU software team with measurable performance targets.
+
+3. **Binding Community Governance Structure**
+Create a Developer Advisory Board with voting rights on ROCm roadmap priorities, funded by a dedicated $Y million annual community engagement budget. Board members must include representatives from major open-source AI frameworks. Publish binding quarterly progress reports against community-defined milestones.
+
+4. **Executive Accountability and Public Commitment**
+Appoint a VP of Open Compute Software reporting directly to the CEO, with compensation tied to measurable ecosystem adoption metrics. Publish binding quarterly roadmaps with specific feature delivery dates, penalty clauses for missed targets, and public developer satisfaction scores.
 
 
 ## Preliminary Action Plan
