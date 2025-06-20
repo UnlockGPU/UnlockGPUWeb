@@ -42,17 +42,18 @@ This is not just advocacy. It's a strategic framework for real change. We don't 
 ## Our Demands
 
 1. **Guaranteed Investment in Open GPU Software**
-Allocate a protected annual budget of $X million specifically for ROCm development, driver stability, and CUDA compatibility tools, with funds ring-fenced from general R&D cuts. This budget must be maintained for a minimum of 5 years and reported separately in quarterly earnings calls.
+Allocate a protected annual budget of $200 million specifically for ROCm development, driver stability, and CUDA compatibility tools, with funds ring-fenced from general R&D cuts. This budget must be maintained for a minimum of 5 years and reported separately in quarterly earnings calls.
 
 2. **Mandatory Driver Support for Consumer Hardware**
 Provide full ROCm support for all consumer GPUs from RX 6000 series onward within 12 months, with commit-level guarantees for 5-year support lifecycles. Establish and fund a dedicated consumer GPU software team with measurable performance targets.
 
 3. **Binding Community Governance Structure**
-Create a Developer Advisory Board with voting rights on ROCm roadmap priorities, funded by a dedicated $Y million annual community engagement budget. Board members must include representatives from major open-source AI frameworks. Publish binding quarterly progress reports against community-defined milestones.
+Create a Developer Advisory Board with voting rights on ROCm roadmap priorities, funded by a dedicated $20 million annual community engagement budget. Board members must include representatives from major open-source AI frameworks. Publish binding quarterly progress reports against community-defined milestones.
 
 4. **Executive Accountability and Public Commitment**
 Appoint a VP of Open Compute Software reporting directly to the CEO, with compensation tied to measurable ecosystem adoption metrics. Publish binding quarterly roadmaps with specific feature delivery dates, penalty clauses for missed targets, and public developer satisfaction scores.
 
+Here is our rationale for the proposed budget:[Why $220M?](why_220M.md)
 
 ## Preliminary Action Plan
 
